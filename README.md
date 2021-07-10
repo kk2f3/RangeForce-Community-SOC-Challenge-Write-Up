@@ -1,7 +1,7 @@
 # RangeForce-Community-SOC-Challenge-Write-Up
 
 
-# Windows - Email Challenge
+## Windows - Email Challenge
 
 The first challenge requires examination and investigation of email headers to determine if they are malicious.
 
